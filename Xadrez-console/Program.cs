@@ -7,10 +7,12 @@ namespace Xadrez_console
     {
        static void Main(string[] args)
         {
+            Console.WriteLine("---------------------------------");
             Console.WriteLine("Olá mundo");
             Console.WriteLine("Tenha um ótimo dia");
             Console.WriteLine("Bom trabalho");
-            
+            Console.WriteLine("---------------------------------");
+
         }
 
         
